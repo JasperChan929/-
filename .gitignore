@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+
+data/raw/*
+data/chroma/*
+!data/raw/.gitkeep
+!data/chroma/.gitkeep
+
+data/registry/*
+!data/registry/.gitkeep
+!data/registry/documents.json
+
+.streamlit/

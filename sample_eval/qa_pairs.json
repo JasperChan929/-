@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is the main topic of the uploaded document?",
+    "expected_keywords": ["topic", "main", "document"]
+  },
+  {
+    "question": "What does the document say about the conclusion?",
+    "expected_keywords": ["conclusion", "summary", "final"]
+  }
+]
